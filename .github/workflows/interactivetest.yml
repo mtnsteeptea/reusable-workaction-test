@@ -19,5 +19,6 @@ jobs:
     steps:
       - shell: bash
         run: |
-          sudo apt update && sudo apt install socat netcat fping
+          sudo apt update && sudo apt install socat netcat fping hping3
+
           
