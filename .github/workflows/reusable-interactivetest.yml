@@ -1,5 +1,4 @@
-
-name: interactive-test
+name: reusable-interactive-test
 
 # Controls when the workflow will run
 on:
